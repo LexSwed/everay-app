@@ -1,4 +1,4 @@
-package com.example.everay
+package io.everay.app
 
 import io.flutter.embedding.android.FlutterActivity
 
